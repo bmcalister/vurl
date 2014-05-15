@@ -22,13 +22,15 @@ create development urls in your terminal
     sudo cp vurl /usr/local/bin/vurl
     ```
 
-3. run vurl in the desired folder (sudo may be required)
+# Usage
+
+1. run vurl in the desired folder (sudo may be required)
 
     ```
     sudo vurl -url myCoolProject.dev
     ```
 
-4. Restart Apache
+2. Restart Apache
 
 
 # ToDos

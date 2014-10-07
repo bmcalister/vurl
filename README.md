@@ -8,7 +8,7 @@ create development urls in your terminal
 
 1. Make sure the paths in vurl.m match your local setup.<br>
     * default path to hosts file: "/etc/hosts"<br>
-    * default path to httpd.conf file: "/Applications/MAMP/conf/apache/httpd.conf" (assuming MAMP)<br>
+    * default path to httpd.conf file: "/Applications/MAMP/conf/apache/extras/httpd-vhosts.conf" (assuming MAMP)<br>
 
 2. Compile vurl.m
 

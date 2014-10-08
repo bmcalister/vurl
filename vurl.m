@@ -3,7 +3,7 @@
 
 // constants
 NSString * const hosts =  @"/etc/hosts";
-NSString * const httpd = @"/Applications/MAMP/conf/apache/extras/httpd-vhosts.conf";
+NSString * const httpd = @"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf";
 NSString * const start_vurl = @"## BEGIN vurl";
 NSString * const end_vurl = @"## END vurl";
 
